@@ -6,5 +6,3 @@
 访问地址：[http://www.1102845913.com/](http://www.1102845913.com/)
 
 
-博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
-
